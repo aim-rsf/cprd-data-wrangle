@@ -1,0 +1,11 @@
+Documentation:
+  - changed-files:
+      - any-glob-to-any-file: ['README.md','CONTRIBUTING.md','cprd-code-browser.md']
+
+Internal:
+  - changed-files:
+      - any-glob-to-any-file: ['.github/*','.all-contributorsrc','.gitignore']
+      
+# Testing:
+#   - changed-files:
+#      - any-glob-to-any-file: []
