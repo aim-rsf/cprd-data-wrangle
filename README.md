@@ -4,6 +4,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![DOI](https://zenodo.org/badge/849944129.svg)](https://zenodo.org/doi/10.5281/zenodo.13693615)
+
+
 # 👋 Welcome 
 
 ##  👥 Who is this repository for? 
@@ -80,6 +83,9 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
+## Citation
+
+> Rachael Stickland. (2024). aim-rsf/cprd-data-wrangle: cprd-data-wrangle v1.0.0 (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13693616
 ---
 
 You got to the end of the README? You get our :seal: of approval! 
