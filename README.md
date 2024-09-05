@@ -49,7 +49,7 @@ We acknowledge and thank these groups for making this project possible:
 - [Clinical Practice Research Datalink (CPRD)](CPRD) for access to synthetic versions of their datasets [synthetic data request no: SD000021].
 - [The Alan Turing Institue](https://www.turing.ac.uk/). This project was supported in part through computational resources provided by The Alan Turing Institute under EPSRC grant EP/N510129/1.
 
-The views expressed within any file in this repository are those of the author(s) within the AIM-RSF programme, and not necessarily those of the: NIHR, Department of Health and Social Care, Medicines and Healthcare products Regulatory Agency (MHRA) or CPRD. 
+The views expressed within any file in this repository are those of the author(s) within the AIM-RSF programme only, and not necessarily those of the: NIHR, Department of Health and Social Care, Medicines and Healthcare products Regulatory Agency (MHRA) or CPRD. 
  
 ## Thanks to specific contributors
 
