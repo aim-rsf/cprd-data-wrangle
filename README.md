@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Citation
 
-> Rachael Stickland. (2024). aim-rsf/cprd-data-wrangle: cprd-data-wrangle v1.0.0 (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13693616
+Batool, A., Ann-Marie, M., Mahwish, M., Rachael Stickland, Kirstie, W., & AIM-RSF team. (2024). Introduction to CPRD using synthetic datasets (cprd-data-wrangle) (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13693616
 ---
 
 You got to the end of the README? You get our :seal: of approval! 
