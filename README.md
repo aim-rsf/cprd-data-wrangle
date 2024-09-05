@@ -4,6 +4,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![DOI](https://zenodo.org/badge/849944129.svg)](https://zenodo.org/doi/10.5281/zenodo.13693615)
+
+
 # 👋 Welcome 
 
 ##  👥 Who is this repository for? 
@@ -79,6 +82,10 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## ♻️ Licences
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Citation
+
+Almarzouq, B., Mallon, A.-M., Mohammad, M., Stickland, R., Whitaker, K., & AIM-RSF team. (2024). Introduction to CPRD using synthetic datasets (cprd-data-wrangle) (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13693616
 
 ---
 
