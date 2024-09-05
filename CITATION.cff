@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Stickland"
+  given-names: "Rachael"
+  orcid: "https://orcid.org/0000-0003-3398-4272"
+- family-names: "Mohammad"
+  given-names: "Mahwish"
+- family-names: "Almarzouq"
+  given-names: "Batool"
+  orcid: "https://orcid.org/0000-0002-3905-2751"
+- family-names: "Mallon"
+  given-names: "Ann-Marie"
+  orcid: "https://orcid.org/0000-0003-4047-4019"
+- family-names: "Whitaker"
+  given-names: "Kirstie"
+  orcid: "https://orcid.org/0000-0001-8498-4059"
+title: "cprd-data-wrangle"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-09-05
+url: "https://github.com/aim-rsf/cprd-data-wrangle"
