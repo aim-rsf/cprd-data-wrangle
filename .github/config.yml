@@ -5,14 +5,14 @@
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
   
-  🎉 Thank you for opening your first issue in this repo! Please check our [contribution guidelines](../CONTRIBUTING.md) and be guided by the issue template.
+  🎉 Thank you for opening your first issue in this repo! Please check our [contribution guidelines](https://github.com/aim-rsf/cprd-data-wrangle/blob/main/CONTRIBUTING.md) and be guided by the issue template.
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
 
-  🎉 Thanks for opening your first pull request in this repo! Please check our [contribution guidelines](../CONTRIBUTING.md) and be guided by the PR template.
+  🎉 Thanks for opening your first pull request in this repo! Please check our [contribution guidelines](https://github.com/aim-rsf/cprd-data-wrangle/blob/main/CONTRIBUTING.md) and be guided by the PR template.
   
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
