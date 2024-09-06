@@ -38,9 +38,9 @@ CPRD's most recently released data specifications can be found [here for the rea
 
 We include information on [CPRD's Code Browser tool](cprd-code-browser.md) and how to request access to it. 
 
-The [code-for-aurum](code-for-aurum) folder uses `Python` and `postgreSQL` to create a pre-processing workflow for CPRD Aurum data which includes a conversion of data file format for compatibility, and then reading the data into tables in a relational database. Workbooks have been created to familiarise a user with the CPRD Aurum tables, including how they link together and how to build a sample cohort:
+The [code-for-aurum](code-for-aurum) folder uses `Python` and `postgreSQL` to create a pre-processing workflow for CPRD Aurum data which includes a conversion of data file format for compatibility, and then reading the data into tables in a relational database. Workbooks have been created to familiarise a user with the CPRD Aurum tables, including how they link together and how to build a sample cohort. See a preview below:
 
-https://github.com/user-attachments/assets/9a636d4c-8170-4145-b6fc-60ac0f4c16d1
+![landing-page-demo-gif](notebook_demo.gif)
 
 # 🤝 Contributions and Acknowledgments
 
