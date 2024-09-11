@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Citation
 
-Almarzouq, B., Mallon, A.-M., Mohammad, M., Stickland, R., Whitaker, K., & AIM-RSF team. (2024). Introduction to CPRD using synthetic datasets (cprd-data-wrangle) (1.0.0). Zenodo. https://doi.org/10.5281/zenodo.13693616
+Almarzouq, B., Mallon, A.-M., Mohammad, M., Stickland, R., Whitaker, K., & AIM-RSF team. (2024). Introduction to CPRD using synthetic datasets (cprd-data-wrangle). Zenodo: https://doi.org/10.5281/zenodo.13693615
 
 ---
 
