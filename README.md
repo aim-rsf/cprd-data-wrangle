@@ -44,9 +44,10 @@ The [code-for-aurum](code-for-aurum) folder uses `Python` and `postgreSQL` to cr
 
 # 🤝 Contributions and Acknowledgments
 
+This project is funded by the NIHR Artificial Intelligence for Multiple Long-Term Conditions (AIM) programme (NIHR202647). The views expressed are those of the author(s) and not necessarily those of the NIHR or the Department of Health and Social Care.
+
 We acknowledge and thank these groups for making this project possible:
 
-- [National Institute for Health and Care Research (NIHR)](https://www.nihr.ac.uk/) for funding the AIM-RSF programme of work [NIHR202647] - see below.
 - The [AI for Multiple Long Term Conditions Research Support Facility (AIM-RSF)](https://github.com/aim-rsf) programme for facilitating the delivery of this project.
   - This repository was created and is maintained by the AIM-RSF, led by [Data Wranglers](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-wrangler.html) Rachael Stickland & Mahwish Mohammad.
 - [Clinical Practice Research Datalink (CPRD)](CPRD) for access to synthetic versions of their datasets [synthetic data request no: SD000021].
