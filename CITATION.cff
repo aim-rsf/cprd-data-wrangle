@@ -17,7 +17,10 @@ authors:
   given-names: "Kirstie"
   orcid: "https://orcid.org/0000-0001-8498-4059"
 title: "cprd-data-wrangle"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2024-09-05
+version: 1.1.1
+doi: 10.5281/zenodo.13693615
+date-released: 2025-01-30
 url: "https://github.com/aim-rsf/cprd-data-wrangle"
+
+
+
