@@ -15,7 +15,7 @@ This repository is for anyone new to working with datasets released by the [Clin
 
 **Please note:**
 
-- **You need your own copy of CPRD's synthetic/real data to run the code. This repository does not contain any data files.**
+- **You need your own copy of CPRD's synthetic/real data to run the code. This repository does not contain any data files. You can access two of CPRD's synthetic datasets for _free_, alongside a Data Sharing Agreement (DSA).**
 
 - **CPRD are moving towards a TRE model of data access, instead of a researcher downloading data onto their own computer. Read more [here](https://www.cprd.com/cprd-safe-our-trusted-research-environment).**
 
