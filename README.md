@@ -40,6 +40,10 @@ The [code-for-aurum](code-for-aurum) folder uses `Python` and `postgreSQL` to cr
 
 ![landing-page-demo-gif](notebook_demo.gif)
 
+# Similar resources
+
+We have not done an exhaustive search for public resources with similar content (loading and pre-processing of CPRD data) but from the ones we have found many were narrow in scope (related to the goals of a specific research project) and/or not maintained (not updated for many months or years). However, these two resources may be worth taking a look at: https://github.com/HFAnalyticsLab/aurumpipeline and https://github.com/Exeter-Diabetes.
+
 # 🤝 Contributions and Acknowledgments
 
 We acknowledge and thank these groups for making this project possible:
