@@ -48,7 +48,7 @@ We have not done an exhaustive search for public resources with similar content 
 
 We acknowledge and thank these groups for making this project possible:
 
-- The [AI for Multiple Long Term Conditions Research Support Facility (AIM-RSF)](https://github.com/aim-rsf) programme for facilitating the delivery of this project.
+- The [AI for Multiple Long Term Conditions Research Support Facility (AIM-RSF)](https://www.turing.ac.uk/research/research-projects/ai-for-multiple-long-term-conditions-research-support-facility) programme for facilitating the delivery of this project.
   - This repository was created and is maintained by the AIM-RSF, led by [Data Wranglers](https://book.the-turing-way.org/collaboration/research-infrastructure-roles/data-wrangler.html) Rachael Stickland & Mahwish Mohammad. This project is funded by the NIHR Artificial Intelligence for Multiple Long-Term Conditions (AIM) programme (NIHR202647).
 - [Clinical Practice Research Datalink (CPRD)](CPRD) for access to synthetic versions of their datasets [synthetic data request no: SD000021].
 - [The Alan Turing Institue](https://www.turing.ac.uk/). This project was supported in part through computational resources provided by The Alan Turing Institute under EPSRC grant EP/N510129/1.
